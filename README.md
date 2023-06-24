@@ -1,2 +1,3 @@
-# RedirectStroeProblem
-How to Ensure a Smooth Transition for Customers When Migrating a Website
+Bussiness Problem: : In this problem, we'll explore a scenario where a startup website initially focused on selling books with the URL "/BookStore" decides to expand its product range to include mobile phones, games, and PCs. To accommodate this expansion, the website aims to update its URL structure to "/Store/Mobile," "/Store/Games," and "/Store/Books." However, it faces the challenge of retaining existing customers who have bookmarked the old URL "/BookStore." The objective is to ensure a smooth transition for customers by automatically redirecting them to the new URLs without causing any inconvenience
+
+
